@@ -1,0 +1,10 @@
+
+langchain
+langchain-core
+langchain_experimental
+pinecone-client
+cohere
+transformers
+python-dotenv
+torch
+jupyter
