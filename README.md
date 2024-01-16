@@ -28,6 +28,8 @@ https://youtu.be/_gC9wWWBjmY?si=Z06gAoH7miIhoEKk
     ```
     source {name of your venv}/bin/activate
     ```
+    
+You should see the name of your environment on the left of your terminal
 
 3. Install requirements 
     ```
@@ -40,6 +42,9 @@ https://youtu.be/_gC9wWWBjmY?si=Z06gAoH7miIhoEKk
     - Add Pinecone environment of your index
     
 5. Launch Jupyter Notebook
+
+Be sure to launch under your python environment
+You should see the name of your environment on the left of your terminal
     ``` 
     jupyter notebook
     ```
