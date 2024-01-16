@@ -4,8 +4,15 @@
 - Python and pyvenv (or Python3)
 - API KEY for Cohere LLM (https://dashboard.cohere.com/)
 - API KEY for Pinecone  (https://app.pinecone.io/)
-- Name of your Pinecone index
-- Name of your Pinecone environment of your index
+- Name of your Pinecone environment of your API KEY
+
+
+## Create Cohere API KEY
+You can get one by signing up https://app.cohere.io/dashboard. Visit the Cohere dashboard to retrieve your API key. If you haven't previously connected a session, you should see it in the main screen. Otherwise, you can find it in the settings page.
+
+## Create Pinecone API KEY
+
+https://youtu.be/_gC9wWWBjmY?si=Z06gAoH7miIhoEKk
 
 ## Steps  
 1. Create Python virtual environment
