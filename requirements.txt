@@ -7,4 +7,4 @@ cohere
 transformers
 python-dotenv
 torch
-jupyter
+jupyterlab
