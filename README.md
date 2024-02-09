@@ -1,4 +1,4 @@
-# Launch Chatbot Application
+# Launch  Workshop
 
 ## Pre-requisites
 - Python and pyvenv (or Python3)
